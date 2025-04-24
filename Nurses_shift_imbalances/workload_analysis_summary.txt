@@ -1,0 +1,21 @@
+
+📊 Dataset: data_10_51_111_66
+- Mean Workload Std Dev: 0.598
+- Median Workload Std Dev: 0.589
+- IQR (Q3 - Q1): 0.171
+- Outliers Detected: 0
+- Range (non-outliers): 0.485 – 0.793
+
+📊 Dataset: data_28_75_208_66
+- Mean Workload Std Dev: 0.770
+- Median Workload Std Dev: 0.764
+- IQR (Q3 - Q1): 0.126
+- Outliers Detected: 1
+- Range (non-outliers): 0.606 – 0.900
+
+📊 Dataset: data_106_121_1096_33
+- Mean Workload Std Dev: 1.165
+- Median Workload Std Dev: 1.102
+- IQR (Q3 - Q1): 0.310
+- Outliers Detected: 0
+- Range (non-outliers): 0.850 – 1.624
